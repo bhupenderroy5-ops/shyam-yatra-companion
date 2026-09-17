@@ -1,0 +1,10 @@
+{
+  "name": "Khatu Shyam Yatra - All India",
+  "short_name": "Shyam Yatra",
+  "description": "Delhi Jaipur se Khatu Shyam yatra ki puri jankari",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#FF6600",
+  "theme_color": "#FF6600",
+  "icons": [{"src": "https://cdn-icons-png.flaticon.com/512/869/869869.png","sizes": "512x512","type": "image/png"}]
+}
